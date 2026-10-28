@@ -1,0 +1,23 @@
+PART 1
+rice
+soup
+juice
+5
+
+PART 2
+['milk', 'rice', 'noodles', 'fruit', 'juice', 'bread']
+['milk', 'rice', 'noodles', 'fruit', 'juice', 'bread', 'salad']
+milk
+rice
+noodles
+fruit
+juice
+bread
+salad
+Tue
+
+PART 3
+Waiting: ['S01', 'S02', 'S03']
+Served: S01
+Still waiting: 3
+True
