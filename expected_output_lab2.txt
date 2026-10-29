@@ -1,0 +1,15 @@
+PART 1
+PASS 1 normal: join three
+PASS 2 normal: serve first
+PASS 3 normal: position of S03
+PASS 4 boundary: serve empty queue
+PASS 5 unexpected: join twice
+PASS 6 normal: menu item
+PASS 7 unexpected: not on menu
+PART 3
+PASS 8 boundary: position of the first student
+PASS 9 unexpected: position of someone not in line
+PASS 10 my test: serve the only student
+PASS 11 refine: order ignores case and spaces
+
+Passed: 11  Failed: 0
